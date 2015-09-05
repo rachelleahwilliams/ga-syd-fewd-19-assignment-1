@@ -1,7 +1,6 @@
 body {
-    background-color: #F8F8FF;}
- {
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F8F8FF;
+    font-family: 'Oswald', sans-serif;
 }
 
 h1 {
@@ -9,7 +8,6 @@ h1 {
     margin-left: 40px;
     margin-right: 40px;
     text-align: left;
-    font-family: sans-serif;
 }
 
 h2 {
@@ -17,14 +15,12 @@ h2 {
     margin-left: 40px;
     margin-right: 40px;
     text-align: left;
-    font-family: sans-serif;
 }
        
 h3 {
     color: #8A2BE2;
     margin-left: 0px;
     text-align: left;
-    font-family: sans-serif;
     }
     
 li {
@@ -32,14 +28,13 @@ li {
     margin-left: 15px;
     margin-right: 40px;  
     text-align: left;
-    font-family: sans-serif;
 }
+
 a {
     colour: #8A2BE2;
     margin-left: 0px;
     margin-right: 20px;
     text-align: left;
-    font-family: sans-serif;
 }
 
 img {
